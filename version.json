@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "changelog": "TAKE PHOTO FIX",
+    "version": "1.0.5",
+    "changelog": "Added support for Fivemanager to generate images with URLs.",
     "name": "Reaver Dev",
     "discord": "reaver_rp",
     "discord_url": "https://discord.gg/Kx3Pbmx8Ae"
