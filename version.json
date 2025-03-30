@@ -1,7 +1,7 @@
 {
-    "version": "2.0.5",
-    "changelog": "Added support for Fivemanager to generate images with URLs.",
-    "name": "Reaver Dev",
+    "version": "2.0.6",
+    "changelog": "Añadido Comando para arreglar filtros, añadido soporte a reaver_notifyv2",
+    "name": "Reaver Dev", 
     "discord": "reaver_rp",
     "discord_url": "https://discord.gg/Kx3Pbmx8Ae",
     "docs": "https://reaver-dev.gitbook.io/reaver-docs/free-cam-v2"
